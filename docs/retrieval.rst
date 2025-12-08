@@ -2,6 +2,11 @@
 Data Retrieval
 ******************
 
+This section outlines how IATI data is retrieved by IATI Tables.
+
+Data Source
+============
+
 IATI Tables retrieves a daily snapshot of all IATI data from the `IATI Bulk Data Service <https://bulk-data.iatistandard.org/>`_.
 All data is replaced each time the process runs, so updates and removals are respected.
 
