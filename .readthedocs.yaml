@@ -21,7 +21,9 @@ sphinx:
   builder: dirhtml
 
 # Build all formats, including PDF
-formats: all
+formats:
+  - pdf
+  - htmlzip
 
 # Optionally declare the Python requirements required to build your docs
 python:
