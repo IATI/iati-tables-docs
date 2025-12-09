@@ -12,11 +12,11 @@ IATI tables transforms IATI data into relational tables, and provides multiple w
 The `IATI Tables Datasette <https://datasette.tables.iatistandard.org/>`_ instance allows you to explore IATI data your browser using SQL, 
 and download the results of your query in multiple formats. You can also query IATI Tables Datasette from notebooks, such as Google Colab or Deepnote.
 
-
 `CSV Zip <https://tables.iatistandard.org/>`_
 =================================================
 
 The CSV Zip download is a compressed folder containing a CSV file for each table, which you can explore by importing into a spreadsheet viewer such as Excel or Google Sheets.
+For more information, see :ref:`Spreadsheets <spreadsheets>`.
 
 `SQLite Zip <https://tables.iatistandard.org/>`_
 =================================================

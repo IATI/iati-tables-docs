@@ -27,6 +27,7 @@ We recommend IATI Tables for people wanting to:
     :caption: User Guide
 
     getting_started
+    spreadsheets
 
 .. toctree::
     :hidden:
