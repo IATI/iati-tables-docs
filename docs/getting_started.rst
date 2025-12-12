@@ -4,7 +4,7 @@ Getting Started
 
 IATI tables transforms IATI data into relational tables, and provides multiple ways to access these data. 
 
-`IATI Tables Datasette <https://datasette.tables.iatistandard.org/>`_
+`IATI Tables Datasette <https://datasette.tables.iatistandard.org/iati>`_
 ========================================================================
 
 `Datasette  <https://datasette.io/>`_ is an open source tool for exploring data. For more information on the Datasette tool, see the `Datasette documentation <https://docs.datasette.io/en/stable/>`_.
