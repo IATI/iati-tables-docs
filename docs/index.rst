@@ -26,6 +26,7 @@ We recommend IATI Tables for people wanting to:
     :maxdepth: 3
     :caption: User Guide
 
+    data_access
     getting_started
     example_queries
     spreadsheets
