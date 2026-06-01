@@ -18,6 +18,6 @@ eyebrow_text = "IATI Tools: Documentation"
 github_repository = "https://github.com/IATI/iati-tables-docs"
 
 # Supported languages for the documentation
-languages = ["en", "fr", "es"]
+languages = ["en"]
 
 redoc = []
